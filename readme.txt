@@ -1,4 +1,5 @@
 git
 git2
 git3
-cat readme.txt
+(old)cat readme.txt
+(new)cat readme.txt
